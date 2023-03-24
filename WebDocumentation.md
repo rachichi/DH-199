@@ -47,7 +47,8 @@ Applications that alleviate the intercultural barrier include VR experiences  su
 
 Solutions which target both the interpersonal language barrier and the intercultural barrier such as the company, Immersive, require a massive investment of resources in the form of time and money which tends to be unrealistic for the general traveling population . 
 
-|X| Language | Culture | Free | On Demand (Does not require prior preparation) |
+|---| Language | Culture | Free | On Demand (Does not require prior preparation) |
+|---|---|---|---|---|
 | Machine translation (e.g. Google Translate) | Yes | --- | Yes | Yes |
 | Language learning (e.g. Babbel) | Yes |---| Yes |---|
 | Cultural applications (e.g. Google Art and Culture) | --- | Yes | --- | Yes |

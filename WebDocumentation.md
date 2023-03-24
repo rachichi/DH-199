@@ -104,6 +104,7 @@ Second, I broke down the transcripts into smaller digestible post-its (yellow re
 [Add image]
 Third, I further organized and labeled all post-its under each purple category and removed the filter by participant. The findings are outlined below in a total of 7 categories: Travel Purpose and Motivation, Digital Tools, Pre-Trip Apprehension, Unexpected Cultural Customs, Communication Preparation, Interactions, and Struggles and (Attempted) Resolutions. These findings were closely followed in the process of building out the low-fidelity prototype. 
 [Add image]
+
 Travel Purpose and Motivation
 1. The area was well known or spoken highly of among friends.
 2. Provides context to content referenced in education.
@@ -112,6 +113,7 @@ Travel Purpose and Motivation
 5. To experience local cuisine.
 6. The trip provides a time and place to focus on friends and family.
 7. For religious purposes.
+
 Digital Tools
 1. Media (YouTube, Movies, Social Media): Provides romanticized and heavily curated views of culture and way of life.
 2. Blogs: Provides real-life insight into the true tourist experience and/or  day-to-day life of a local.
@@ -120,17 +122,20 @@ Digital Tools
 5. Transportation apps (Nader, Google Maps, AustralianETA): Provides country-specific directions for modes of transportation, ETA, and routes.
 6. Airline apps (EasyJet, Delta, AirCanada): Certain countries have additional steps for international flight check-in processes. Provides updated flight information and necessary additional steps.
 7. Translation apps (Duolingo, Google Translate, PapaGo, School): Alleviates the language barrier
+
 Pre-Trip Apprehension
 1. Safety: Fear of getting hurt or lost due to:
 2. Language barrier
 3. Transportation illiteracy
 4. FOMO: Fear of missed experiences and opportunities to meet new people
+
 Unexpected Cultural Customs
 1. Demographics: Types of people -- especially in areas that speak English.
 2. Progressive v. Conservative culture: Socially acceptable ways of dressing, speaking, looking (skin color).  
 3. Restaurants/Service Industry: Tipping culture, expectations for customer service, unintentionally “disrespectful” actions (bringing water bottle, not tipping enough, utensil positioning).
 4. Payment/Bargaining: Delineate between situations where it is acceptable/encouraged to haggle prices.
 5. Transportation: Different modes of transportation, payment methods for each, infrastructure.
+
 Communication Preparation
 1. There was a unanimous lack of self-motivated communication preparation due to:
 2. No time (last minute trip, busy schedule)
@@ -139,6 +144,7 @@ Communication Preparation
 5. Everyone would probably speak English (only traveling to well-known tourist locations)
 6. Didn’t feel the need to (until it was too late)
 7. Depended on external party (friends who knew the area, tour groups)
+
 Interactions
 |People|Content|
 |---|---|
@@ -174,6 +180,7 @@ Initiation
 3. Within her hours of research, she reads quite a few blogs which mention that although there exists a heavy tourist population, English is not a widely spoken language.
 4. Unfortunately, at this point she believes it’s a bit too late to learn the language – she needed to study for finals and there was just enough downtime to pack and leave.
 5. So, though she does quite a bit of research, enough to feel as comfortable as possible, enjoy her time, follow her itinerary, and not draw attention to herself, she forgoes any preparation for interpersonal and intercultural communication due to time constraints. 
+
 Frustration
 1. After a 16 hour flight, she exits the airport, exhausted from jetlag, and is immediately faced with a transit system that she still didn’t fully grasp. Though a few workers could speak limited English, it was extremely difficult to explain her situation so she could buy the best pass for her circumstances.
 2. She passes out the minute she reaches the hotel. She’s planned for this, of course.
@@ -184,6 +191,7 @@ Frustration
 7. When the waitress comes in a second time to bring her the next dish, she looks at her oddly once again. At this point, Karla is feeling increasingly isolated, and eventually tries to tip her server after paying the bill as a bit of an apology. This act is met with even more confusion.  
 8. Takes public transportation back where she facetimes her best friend to complain about the experience. As she converses with her friend she slowly realizes the glares and frowns directed towards her. So she hangs up and puts her phone away. 
 9. At this point she is so confused, her mood is ruined and she feels increasingly isolated and like an outcast.
+
 Solution
 1. After reminiscing a bit, realizes there must be cultural customs that she must be missing. 
 2. She downloads the app based on a recommendation from a blogpost 
@@ -192,6 +200,7 @@ Solution
 5. Arrives at a restaurant. She thanks the hostess for seating her and provides a little bow. The waitress beams and immediately she feels better.
 6. When the food arrives she slurps it up and completely finishes it, giggling when she sees the congratulatory words at the bottom of the dish. 
 7. She thanks the hostess using a phrase from the app and a smile instead of pulling out her wallet. 
+
 Achievement
 1. She leaves the restaurant feeling proud of herself, with a newfound confidence and feels less isolated. 
 
@@ -199,6 +208,7 @@ Achievement
 Initiation
 1. Ian and his wife plan a yearly family trip. This year it happened to be Matzalan, Mexico. 
 2. Since the family had gone to a couple places in Mexico in the past and it was never necessary to learn Spanish, he did not feel the need to prepare anything to alleviate the interpersonal or intercultural communication barrier. 
+
 Frustration
 1. After checking into the hotel, Ian and his family are HUNGRY. Ian takes his family on a walk around the hotel area and decides to stop at a quick-service restaurant crowded with locals.
 2. This kiosk-like set up is normal to him and the family. What is unexpected is the complete lack of English in the menu, and the complete lack of English also spoken by the waiter himself. They thank the waiter, sit down, and begin hopelessly scanning the menu for any words that might sound slightly familiar.
@@ -208,6 +218,7 @@ Frustration
 6. Some dishes were great but some were not. That’s fine. The issue is that when they order again, how would they know what part of the dish they didn’t like? They ask for the check and Ian puts down his credit card. The waiter shakes his head and rubs his . That one is obvious – they only take cash. Ian sprints to the nearby ATM using Google Maps and comes back with cash to pay 
 7. Then the family is faced with another question – are they supposed to tip? If so, how much? Frantically google search but the data is not great. They leave a couple US dollars and quickly leave because they are not sure how that was received. 
 8. They realize they need to go to grocery store a few blocks away to collect water, breakfast, snacks, and other necessities 
+
 Solution
 1. As Ian and the family wait for a taxi, he searched the App Store for “Common Spanish vocabulary by context” and quickly downloaded the app using the limited data he has.
 2. He’s prompted to sign in and the app then requests his location. He signs in and allows the app to access location while he is using it. 
@@ -224,6 +235,7 @@ Solution
 7. The store is massive and they realize the app might come in handy to find items. 
 8. The family waves down a taxi to head back to the hotel. This time, they haggle the price down to a reasonable amount with the guidance of the “payment” feature on the app, which breaks down numbers very quickly and clearly. 
 9. Ian is on a roll and checks out the “conversation” section. Not only does it contain simple prompts to start conversation, it contains common translated responses. The family learns the driver was born in a different place not too far from there and that they should check it out. Once they arrive at the hotel, he pays and wishes him good night based on the vocab in that same section. 
+
 Achievement
 1. Ian is proud of himself, and so is the family. 
 2. Over the span of the vacation, they feel increasingly comfortable navigating the area and are confident beginning simple conversations with those around them. Of course, they still had to rely of Google Translate for more unique interactions, and Google Maps for directions 

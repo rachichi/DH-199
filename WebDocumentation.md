@@ -27,23 +27,19 @@ The outcome of my project will be a web documentation of the design process, a l
 | TBD | Documentation (Part 2): Complete and submit final research report |
 
 ## Literature Review
-
 It is a given that modern-day travel will incorporate digital tools one way or another, whether that be during the planning stages of a trip or during the trip experience itself. To accompany a world that aims to remove siloes and grow ever-more intertwined and complex, it is urgent that a tool be built to assist in the creation of these communities, no matter how fleeting. When it comes to the user experience of digital tools, previous research has shown 55 percent of travel apps were purchased within 3 days of travel or even while travelers were at the destination, demonstrating the importance of on-demand mobile apps  (Mickaiel). When delving into the specifics of these downloaded apps, a 2012 study showed “Single City Destination Guide” and "Language Assistant” apps were the most downloaded (Wang and Xiang). In other words, users depend highly on tools to assist in optimizing experience and communication. 
 
 However, with the technological boom comes an inevitable lust for financial gain. Digital tools built to constantly maximize monetary benefit at the expense of users have terrifying impacts for humanity, especially in terms of cognitive, social, emotional, and ethical implications (Ananou and Tamamoto). 
 Keeping those implications in mind, between two users of different backgrounds, languages, and cultures, translation apps tend to serve as the only middleman in the interaction. Therefore, it is important to optimize this experience by building a tool that not only facilitates practical language communication, but emphasizes cultural context to preserve humanity. Here, <b>“practical language communication” is defined as the facilitation of basic communication while “cultural context” is defined as preserving humanity through cultural awareness.
 
 ## Design Statement
- 
 Based on previous literature regarding mobile applications for tourism, preservation of humanity in the digital age, barriers to intercultural communication, and a brief analysis on existing language and culture technologies, the proposed solution will be a digital tool tailored to the visitors of a foreign country and will accomplish two main goals. Not only will this project provide evidence-based recommendations and a functional prototype of an on-demand digital tool which alleviates the interpersonal communication barriers, but will put a focus on preserving humanity by facilitating intercultural human connection through etiquette literacy. This hypothetical tool will successfully resolve the research goal of “How might we utilize digital technology to alleviate the interpersonal language barrier and preserve the humanity of intercultural communication?”
 
 ## Generative Research 
- 
- To answer the research question of how we might utilize digital technology to alleviate the interpersonal language barrier and preserve the humanity of intercultural communication, it was first necessary to define a target audience. Through research and conversation, it was determined that the target audience focus for the first release would be American tourists who want to understand, experience, and (as much as possible) integrate into certain aspects of the local way of life with minimum prior research or preparation. In the context of this paper, “local way of life” refers to an experience that involves culturally mindful living – where a non-native speaker is still able to learn about experiences which set the region’s culture apart from their own, in the context of the region itself. 
+To answer the research question of how we might utilize digital technology to alleviate the interpersonal language barrier and preserve the humanity of intercultural communication, it was first necessary to define a target audience. Through research and conversation, it was determined that the target audience focus for the first release would be American tourists who want to understand, experience, and (as much as possible) integrate into certain aspects of the local way of life with minimum prior research or preparation. In the context of this paper, “local way of life” refers to an experience that involves culturally mindful living – where a non-native speaker is still able to learn about experiences which set the region’s culture apart from their own, in the context of the region itself. 
 The two research methods that were employed were 1) visual ethnography and 2) user interviews, which will be further explained in the following sections with accompanying screenshots. Please refer to the Resource List at the end of this report to view these screenshots as the original high-quality file type.
 
 ### Visual Anthropology Outcomes
-
 After taking photos of the areas and people around Koreatown, I continued developing my findings into a list of outcomes.
 1. Tourists from the local LA area travel into Koreatown for the purpose of experiencing ethnic Asian cuisine.
 2. Areas which are not Catered To Tourists (nCTT) are visibly distinguishable from areas which are Catered To Tourists (CTT) because surrounding signs and shop names are in Korean, with only a few including the English translation of shop names.
@@ -59,7 +55,6 @@ After taking photos of the areas and people around Koreatown, I continued develo
 6. Some areas had large unfinished construction projects. Graffiti on the nearby building showed it had been a while since anyone last entered the area. The glass is smashed at the bus stop nearby. Does not seem well-maintained outside CTT areas.
 
 ### User Interviews Outcomes
-
 The user interview research findings were a result of analysis from participants to recall and relay anecdotal evidence regarding recent travel experiences in varying foreign countries. They are listed as follows:
  
 #### Travel Purpose and Motivation
@@ -125,12 +120,12 @@ Based on the interview research I chose 2 personas. One is Karla, who is a recen
 
 *Karla Aziz’s user persona*
  <p align="center">
-  <img src="DH-199/karla_persona.png" alt="Karla Aziz's persona" width = "300px"/>
+  <img src="../karla persona.png" alt="Karla Aziz's persona" width = "300px"/>
 </p>
 
 *Ian Chen’s persona*
  <p align="center">
-  <img src="DH-199/ian_persona.png" alt="Ian Chen's persona" width = "300px"/>
+  <img src="../ian persona.png" alt="Ian Chen's persona" width = "300px"/>
 </p>
 
 ## User Flows
@@ -145,7 +140,7 @@ The tasks are visualized in the diagram below
  
 *User Flow diagram*
  <p align="center">
-  <img src="DH-199/User Flows.png" alt="User Flow" width = "300px"/>
+  <img src="../User Flows.png" alt="User Flow" width = "300px"/>
 </p>
 
 ## User Testing
@@ -165,7 +160,7 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 
 *V1 low-fidelity prototype*
  <p align="center">
-  <img src="DH-199/v1 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
+  <img src="../v1 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
 </p>
  
 ### Version 2 (Final)
@@ -178,12 +173,12 @@ In addition to editing the pre-existing Login page, Home page, About page, Edit 
 
 *V2 low-fidelity prototype*
  <p align="center">
-  <img src="DH-199/v2 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
+  <img src="../v2 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
 </p>
 
 *Final low-fidelity prototype*
 <p align="center">
-  <img src="DH-199/final proto.png" alt="Final Low-Fidelity Prototype" width = "300px"/>
+  <img src="../final proto.png" alt="Final Low-Fidelity Prototype" width = "300px"/>
 </p>
 
 ## Resource List

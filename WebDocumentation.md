@@ -183,6 +183,9 @@ In addition to editing the pre-existing Login page, Home page, About page, Edit 
 
 ## Resource List
 [Research findings](https://www.figma.com/file/Qmr3ZtHMiGVFMf3gKQMg5t/Language-Learning-App?node-id=0%3A1&t=AkeE2LlfRBlswTIs-1)
+
 [V1 Low-fidelity wireframes](https://www.figma.com/file/RFo628XMo8gh51WC0BTQUh/Language-Learning-App?node-id=0-1)
+
 [V2 Low-fidelity wireflows](https://www.figma.com/file/RFo628XMo8gh51WC0BTQUh/Language-Learning-App?node-id=89-18881)
+
 [V2 Low-fidelity prototype (Final)](https://www.figma.com/file/RFo628XMo8gh51WC0BTQUh/Language-Learning-App?node-id=89-25140)

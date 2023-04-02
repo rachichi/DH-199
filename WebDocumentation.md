@@ -41,7 +41,7 @@ Based on previous literature regarding mobile applications for tourism, preserva
  To answer the research question of how we might utilize digital technology to alleviate the interpersonal language barrier and preserve the humanity of intercultural communication, it was first necessary to define a target audience. Through research and conversation, it was determined that the target audience focus for the first release would be American tourists who want to understand, experience, and (as much as possible) integrate into certain aspects of the local way of life with minimum prior research or preparation. In the context of this paper, “local way of life” refers to an experience that involves culturally mindful living – where a non-native speaker is still able to learn about experiences which set the region’s culture apart from their own, in the context of the region itself. 
 The two research methods that were employed were 1) visual ethnography and 2) user interviews, which will be further explained in the following sections with accompanying screenshots. Please refer to the Resource List at the end of this report to view these screenshots as the original high-quality file type.
 
-### Visual Anthropology outcomes
+### Visual Anthropology Outcomes
 
 After taking photos of the areas and people around Koreatown, I continued developing my findings into a list of outcomes.
 1. Tourists from the local LA area travel into Koreatown for the purpose of experiencing ethnic Asian cuisine.
@@ -57,11 +57,11 @@ After taking photos of the areas and people around Koreatown, I continued develo
 * Workers don’t speak much English. I witnessed one person trying to find a specific product. Only until the customer said the product name in Korean did the worker lead her to the correct area of the store.
 6. Some areas had large unfinished construction projects. Graffiti on the nearby building showed it had been a while since anyone last entered the area. The glass is smashed at the bus stop nearby. Does not seem well-maintained outside CTT areas.
 
-User Interviews outcomes
+### User Interviews Outcomes
 
 The user interview research findings were a result of analysis from participants to recall and relay anecdotal evidence regarding recent travel experiences in varying foreign countries. They are listed as follows:
  
-Travel Purpose and Motivation
+#### Travel Purpose and Motivation
 1. The area was well known or spoken highly of among friends.
 2. Provides context to content referenced in education.
 3. For new experiences and memories.
@@ -70,7 +70,7 @@ Travel Purpose and Motivation
 6. The trip provides a time and place to focus on friends and family.
 7. For religious purposes.
 
-Digital Tools
+#### Digital Tools
 1. Media (YouTube, Movies, Social Media): Provides romanticized and heavily curated views of culture and way of life.
 2. Blogs: Provides real-life insight into the true tourist experience and/or  day-to-day life of a local.
 3. Web search (Google, Tourism sites): Broad research of point of interests, safety information, etc.
@@ -79,20 +79,20 @@ Digital Tools
 6. Airline apps (EasyJet, Delta, AirCanada): Certain countries have additional steps for international flight check-in processes. Provides updated flight information and necessary additional steps.
 7. Translation apps (Duolingo, Google Translate, PapaGo, School): Alleviates the language barrier
 
-Pre-Trip Apprehension
+#### Pre-Trip Apprehension
 1. Safety: Fear of getting hurt or lost due to:
 2. Language barrier
 3. Transportation illiteracy
 4. FOMO: Fear of missed experiences and opportunities to meet new people
 
-Unexpected Cultural Customs
+#### Unexpected Cultural Customs
 1. Demographics: Types of people -- especially in areas that speak English.
 2. Progressive v. Conservative culture: Socially acceptable ways of dressing, speaking, looking (skin color).  
 3. Restaurants/Service Industry: Tipping culture, expectations for customer service, unintentionally “disrespectful” actions (bringing water bottle, not tipping enough, utensil positioning).
 4. Payment/Bargaining: Delineate between situations where it is acceptable/encouraged to haggle prices.
 5. Transportation: Different modes of transportation, payment methods for each, infrastructure.
 
-Communication Preparation
+#### Communication Preparation
 1. There was a unanimous lack of self-motivated communication preparation due to:
 2. No time (last minute trip, busy schedule)
 3. Didn’t feel the need to fit in (accepted that they were going to be treated as outsiders regardless of the amount of language preparation)
@@ -101,17 +101,17 @@ Communication Preparation
 6. Didn’t feel the need to (until it was too late)
 7. Depended on external party (friends who knew the area, tour groups)
 
-Interactions
+#### Interactions
 |People|Content|
 |---|---|
 |Service providers: Restaurant, shop, hotel, transportation workers and Students: The younger demographic.| Purchasing/Bartering, Directions, Recommendations, Meeting new people and understanding experiences, Greetings, By necessity | 
 
-Struggles and (Attempted) Resolutions
+#### Struggles and (Attempted) Resolutions
 |Struggles|(Attempted) Resolutions|
 |---|---|
 |Not knowing a language causes: Feelings of isolation, Inability to meet new people and learn about their culture, Barriers to obtaining desired items and foods, Difficulty in practicing and using language (need a starting point/foundation and beginner language courses typically do not provide practical, context-based information).| Attempts to alleviate the communication barrier includes: Miming and body language, and Using translation apps to communicate single words/phrases |
 
-### 4.2 Overall Findings
+#### Overall Findings
 Ultimately, it is important to reflect on the intriguing (yet overwhelming) amount of information learned from each of the employed research methods. 4 broad themes emerged for what the overall feel of the app should be. They are as follows:
 1. Decrease awkwardness and clunky-ness of interactions: Shorten latency between question and response, remove socially abnormal behaviors like speaking into the phone to translate conversation.
 2. Be immediate and on demand: Delivers content immediately

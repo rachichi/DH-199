@@ -124,12 +124,12 @@ Based on the interview research I chose 2 personas. One is Karla, who is a recen
 
 *Karla Aziz’s user persona*
  <p align="center">
-  <img src="../name.png" alt="Karla Aziz's persona" width = "300px"/>
+  <img src="../karla persona.png" alt="Karla Aziz's persona" width = "300px"/>
 </p>
 
 *Ian Chen’s persona*
  <p align="center">
-  <img src="../name.png" alt="Ian Chen's persona" width = "300px"/>
+  <img src="../ian persona.png" alt="Ian Chen's persona" width = "300px"/>
 </p>
 
 ## User Flows
@@ -144,7 +144,7 @@ The tasks are visualized in the diagram below
  
 *User Flow diagram*
  <p align="center">
-  <img src="../name.png" alt="User Flow" width = "300px"/>
+  <img src="../User Flows.png" alt="User Flow" width = "300px"/>
 </p>
 
 ## User Testing
@@ -164,7 +164,7 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 
 *V1 low-fidelity prototype*
  <p align="center">
-  <img src="../name.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
+  <img src="../v1 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
 </p>
  
 ### Version 2 (Final)
@@ -177,12 +177,12 @@ In addition to editing the pre-existing Login page, Home page, About page, Edit 
 
 *V2 low-fidelity prototype*
  <p align="center">
-  <img src="../name.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
+  <img src="../v2 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
 </p>
 
 *Final low-fidelity prototype*
 <p align="center">
-  <img src="../name.png" alt="Final Low-Fidelity Prototype" width = "300px"/>
+  <img src="../final proto.png" alt="Final Low-Fidelity Prototype" width = "300px"/>
 </p>
 
 ## Resource List

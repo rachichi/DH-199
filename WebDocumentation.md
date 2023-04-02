@@ -166,6 +166,7 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 ### Version 2 (Final)
 In addition to editing the pre-existing Login page, Home page, About page, Edit function, and Vocabulary page, I added a Search page, Etiquette page, and included interactive bookmarks to sections that can be saved. This is the version in which I created a working prototype and tested it with 3 users. Although a surprising amount of the feedback was positive, as each task was fulfilled with minimal issues, there were quite a few recommendations on portions that hadn’t yet been built out. 
 |Feedback|Proposed design solution|
+|---|---|
 |I prioritize convenience over price. I want to know what the quickest route to my final destination is using each of these types of transportation.|Model transportation section like Google Maps, where by default, the most convenient/quickest transportation option is displayed. Users can swipe/scroll for further information if a different type of transportation is preferred.|
 |If asked to find a common phrase, I immediately navigate to conversations from the home tab or the search bar. I do not go to the dining tab even if the context is dining, because I may not have seen that section before.|Make the conversations tab a dictionary with common phrases.|
 |Seems like the vocabulary tab is the same interface as the conversations category from the home page.|Delineate a better scope for each of these sections. Maybe one link to the other, or a section could be removed.|

@@ -34,6 +34,7 @@ However, with the technological boom comes an inevitable lust for financial gain
 Keeping those implications in mind, between two users of different backgrounds, languages, and cultures, translation apps tend to serve as the only middleman in the interaction. Therefore, it is important to optimize this experience by building a tool that not only facilitates practical language communication, but emphasizes cultural context to preserve humanity. Here, <b>“practical language communication” is defined as the facilitation of basic communication while “cultural context” is defined as preserving humanity through cultural awareness.
 
 ## Design Statement
+ 
 Based on previous literature regarding mobile applications for tourism, preservation of humanity in the digital age, barriers to intercultural communication, and a brief analysis on existing language and culture technologies, the proposed solution will be a digital tool tailored to the visitors of a foreign country and will accomplish two main goals. Not only will this project provide evidence-based recommendations and a functional prototype of an on-demand digital tool which alleviates the interpersonal communication barriers, but will put a focus on preserving humanity by facilitating intercultural human connection through etiquette literacy. This hypothetical tool will successfully resolve the research goal of “How might we utilize digital technology to alleviate the interpersonal language barrier and preserve the humanity of intercultural communication?”
 
 ## Generative Research 
@@ -124,12 +125,12 @@ Based on the interview research I chose 2 personas. One is Karla, who is a recen
 
 *Karla Aziz’s user persona*
  <p align="center">
-  <img src="../karla persona.png" alt="Karla Aziz's persona" width = "300px"/>
+  <img src="../karla_persona.png" alt="Karla Aziz's persona" width = "300px"/>
 </p>
 
 *Ian Chen’s persona*
  <p align="center">
-  <img src="../ian persona.png" alt="Ian Chen's persona" width = "300px"/>
+  <img src="../ian_persona.png" alt="Ian Chen's persona" width = "300px"/>
 </p>
 
 ## User Flows

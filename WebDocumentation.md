@@ -119,12 +119,12 @@ The first 3 of themes were used to enhance the app experience.
 Based on the interview research I chose 2 personas. One is Karla, who is a recent college graduate wanting to experience life abroad for the first time with a close friend. She’s been wanting to do this trip for a while and has planned everything out to the hour. On the other hand is Ian, who is a well traveled family man. He wants to make the experience as authentic and exciting for his family, and believes spontaneity to be the most important factor in having fun. 
 
 *Karla Aziz’s user persona*
+
 <img src="https://github.com/rachichi/DH-199/blob/main/karla%20persona.png" height="300px"> 
 
 *Ian Chen’s persona*
- <p align="center">
-  <img src="../ian persona.png" alt="Ian Chen's persona" width = "300px"/>
-</p>
+
+<img src="https://github.com/rachichi/DH-199/blob/main/ian%20persona.png" height="300px"> 
 
 ## User Flows
 As reiterated in the beginning of each of the 3 usability tests, a low-fidelity prototype provides the ability for designers to test the flow of screens and the functionality for the app before intricate design changes are implemented. A total of 5 tasks were created based on the most important user needs from user testing. Those are
@@ -137,9 +137,8 @@ As reiterated in the beginning of each of the 3 usability tests, a low-fidelity 
 The tasks are visualized in the diagram below
  
 *User Flow diagram*
- <p align="center">
-  <img src="../User Flows.png" alt="User Flow" width = "300px"/>
-</p>
+
+<img src="https://github.com/rachichi/DH-199/blob/main/User%20Flows.png" height="300px"> 
 
 ## User Testing
 Iterations were represented by “versions,” and can be seen by the V1 (Version 1) and V2 (Version 2) labels. 
@@ -157,9 +156,8 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 |The section to edit is much too far from the keyboard.|Have the page automatically scroll so the section that is being edited lies directly above the keyboard.|
 
 *V1 low-fidelity prototype*
- <p align="center">
-  <img src="../v1 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
-</p>
+
+<img src="https://github.com/rachichi/DH-199/blob/main/v1%20low%20fid.png" height="300px"> 
  
 ### Version 2 (Final)
 In addition to editing the pre-existing Login page, Home page, About page, Edit function, and Vocabulary page, I added a Search page, Etiquette page, and included interactive bookmarks to sections that can be saved. This is the version in which I created a working prototype and tested it with 3 users. Although a surprising amount of the feedback was positive, as each task was fulfilled with minimal issues, there were quite a few recommendations on portions that hadn’t yet been built out. 
@@ -171,14 +169,12 @@ In addition to editing the pre-existing Login page, Home page, About page, Edit 
 |It is not immediately evident how to edit a page.|Update the (...) icon to an actual edit (pen) icon.|
 
 *V2 low-fidelity prototype*
- <p align="center">
-  <img src="../v2 low fid.png" alt="Version 2 Low-Fidelity Wireframe" width = "300px"/>
-</p>
+
+<img src="https://github.com/rachichi/DH-199/blob/main/v2%20low%20fid.png" height="300px"> 
 
 *Final low-fidelity prototype*
-<p align="center">
-  <img src="../final proto.png" alt="Final Low-Fidelity Prototype" width = "300px"/>
-</p>
+
+<img src="https://github.com/rachichi/DH-199/blob/main/final%20proto.png" height="300px"> 
 
 ## Resource List
 [Research findings](https://www.figma.com/file/Qmr3ZtHMiGVFMf3gKQMg5t/Language-Learning-App?node-id=0%3A1&t=AkeE2LlfRBlswTIs-1)

@@ -119,9 +119,7 @@ The first 3 of themes were used to enhance the app experience.
 Based on the interview research I chose 2 personas. One is Karla, who is a recent college graduate wanting to experience life abroad for the first time with a close friend. She’s been wanting to do this trip for a while and has planned everything out to the hour. On the other hand is Ian, who is a well traveled family man. He wants to make the experience as authentic and exciting for his family, and believes spontaneity to be the most important factor in having fun. 
 
 *Karla Aziz’s user persona*
- <p align="center">
-  <img src="rachichi/DH-199/karla persona.png" alt="Karla Aziz's persona" width = "300px"/>
-</p>
+<img src=”https://github.com/rachichi/DH-199/blob/main/karla%20persona.png” height=”300px”> 
 
 *Ian Chen’s persona*
  <p align="center">

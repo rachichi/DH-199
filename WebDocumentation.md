@@ -121,13 +121,9 @@ The first 3 of themes were used to enhance the app experience.
 ## Personas
 Based on the interview research I chose 2 personas. One is Karla, who is a recent college graduate wanting to experience life abroad for the first time with a close friend. She’s been wanting to do this trip for a while and has planned everything out to the hour. On the other hand is Ian, who is a well traveled family man. He wants to make the experience as authentic and exciting for his family, and believes spontaneity to be the most important factor in having fun. 
 
-*Karla Aziz’s user persona*
-
-<img src="./karlapersona.png" width="900px">  
-
-*Ian Chen’s persona*
-
-<img src="./ianpersona.png" width="900px">
+*Karla Aziz’s user persona* | *Ian Chen’s persona*
+-------------------------------------------|---------------------------------------------
+<img src="./karlapersona.png" width="400px">  | <img src="./ianpersona.png" width="400px">
 
 ## User Flows
 As reiterated in the beginning of each of the 3 usability tests, a low-fidelity prototype provides the ability for designers to test the flow of screens and the functionality for the app before intricate design changes are implemented. A total of 5 tasks were created based on the most important user needs from user testing. Those are
@@ -141,7 +137,7 @@ The tasks are visualized in the diagram below
  
 *User Flow diagram*
 
-<img src="./userflow.png" width="900px">  
+<img src="./userflow.png" width="1000px">  
 
 ## User Testing
 Iterations were represented by “versions,” and can be seen by the V1 (Version 1) and V2 (Version 2) labels. 
@@ -175,11 +171,11 @@ In addition to editing the pre-existing Login page, Home page, About page, Edit 
 
 *V2 low-fidelity prototype*
 
-<img src="./v2lowfid.png" width="900px">  
+<img src="./v2lowfid.png" width="1000px">  
 
 *Final low-fidelity prototype*
 
-<img src="./finalproto.png" width="900px">  
+<img src="./finalproto.png" width="1000px">  
 
 ## Resource List
 [Research findings](https://www.figma.com/file/Qmr3ZtHMiGVFMf3gKQMg5t/Language-Learning-App?node-id=0%3A1&t=AkeE2LlfRBlswTIs-1)

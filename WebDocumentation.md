@@ -99,11 +99,13 @@ The user interview research findings were a result of analysis from participants
 7. Depended on external party (friends who knew the area, tour groups)
 
 #### Interactions
+
 |People|Content|
 |---|---|
 |Service providers: Restaurant, shop, hotel, transportation workers and Students: The younger demographic.| Purchasing/Bartering, Directions, Recommendations, Meeting new people and understanding experiences, Greetings, By necessity | 
 
 #### Struggles and (Attempted) Resolutions
+
 |Struggles|(Attempted) Resolutions|
 |---|---|
 |Not knowing a language causes: Feelings of isolation, Inability to meet new people and learn about their culture, Barriers to obtaining desired items and foods, Difficulty in practicing and using language (need a starting point/foundation and beginner language courses typically do not provide practical, context-based information).| Attempts to alleviate the communication barrier includes: Miming and body language, and Using translation apps to communicate single words/phrases |
@@ -149,6 +151,7 @@ The first low-fidelity prototype, which will be called V0 was mocked up with pen
  
 ### Version 1
 I eventually decided it would be easier to design directly in Figma using a Low-Fidelity wireframing kit, which is where V1 was mocked up. This version contained a Login page, Home page, About page, Edit function, and Vocabulary page. These pages were decided based on the user flow included at the beginning of this section. A few of the initial designs were overwritten by V2 as the changes were subtle and not worth keeping. After presenting flat, initial designs to users, I received useful feedback which I incorporated into V2 and also included in the table below 
+
 |Feedback|Implemented design solution|
 |---|---|
 |Make layout simpler. What information is the most important? For example, when I see the cash related tags I expect to see the price in the same area.|Use other apps as reference for information presentation in a mobile format.|
@@ -161,7 +164,8 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 <img src="https://github.com/rachichi/DH-199/blob/main/v1%20low%20fid.png" height="300px"> 
  
 ### Version 2 (Final)
-In addition to editing the pre-existing Login page, Home page, About page, Edit function, and Vocabulary page, I added a Search page, Etiquette page, and included interactive bookmarks to sections that can be saved. This is the version in which I created a working prototype and tested it with 3 users. Although a surprising amount of the feedback was positive, as each task was fulfilled with minimal issues, there were quite a few recommendations on portions that hadn’t yet been built out. 
+In addition to editing the pre-existing Login page, Home page, About page, Edit function, and Vocabulary page, I added a Search page, Etiquette page, and included interactive bookmarks to sections that can be saved. This is the version in which I created a working prototype and tested it with 3 users. Although a surprising amount of the feedback was positive, as each task was fulfilled with minimal issues, there were quite a few recommendations on portions that hadn’t yet been built out.
+
 |Feedback|Proposed design solution|
 |---|---|
 |I prioritize convenience over price. I want to know what the quickest route to my final destination is using each of these types of transportation.|Model transportation section like Google Maps, where by default, the most convenient/quickest transportation option is displayed. Users can swipe/scroll for further information if a different type of transportation is preferred.|

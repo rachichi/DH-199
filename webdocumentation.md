@@ -137,7 +137,7 @@ The tasks are visualized in the diagram below
  
 *User Flow diagram*
 
-<img src="./userflow.png" width="1000px">  
+<img src="./userflows.png" width="1000px">  
 
 ## User Testing
 Iterations were represented by “versions,” and can be seen by the V1 (Version 1) and V2 (Version 2) labels. 

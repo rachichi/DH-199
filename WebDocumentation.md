@@ -123,7 +123,7 @@ Based on the interview research I chose 2 personas. One is Karla, who is a recen
 
 *Karla Aziz’s user persona*
 
-<img src="./karlapersona.png" height="300px">  
+<img src="./karlapersona.png" width="300px">  
 
 *Ian Chen’s persona*
 

@@ -157,7 +157,7 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 
 *V1 low-fidelity prototype*
 
-<img src="./v1lowfid.png" width="900px">  
+<img src="./v1lowfid.png" width="1000px">  
  
 ### Version 2 (Final)
 In addition to editing the pre-existing Login page, Home page, About page, Edit function, and Vocabulary page, I added a Search page, Etiquette page, and included interactive bookmarks to sections that can be saved. This is the version in which I created a working prototype and tested it with 3 users. Although a surprising amount of the feedback was positive, as each task was fulfilled with minimal issues, there were quite a few recommendations on portions that hadn’t yet been built out.

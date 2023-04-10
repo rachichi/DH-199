@@ -11,6 +11,7 @@ This project will be completed using a user-centered design process which incorp
 The outcome of my project will be a web documentation of the design process, a low-fidelity prototype of the application, and a final research paper. 
 
 ### Tentative Project Timeline
+
 | Week | Task |
 |---|---|
 | Week 01 (1/9-1/13) | Project Setup: Initiate web documentation, Obtain CITI certification, and Build a research timeline |

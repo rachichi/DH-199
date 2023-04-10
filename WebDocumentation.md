@@ -123,11 +123,11 @@ Based on the interview research I chose 2 personas. One is Karla, who is a recen
 
 *Karla Aziz’s user persona*
 
-<img src="./karlapersona.png" width="300px">  
+<img src="./karlapersona.png" width="900px">  
 
 *Ian Chen’s persona*
 
-<img src="./ianpersona.png" height="300px">
+<img src="./ianpersona.png" width="900px">
 
 ## User Flows
 As reiterated in the beginning of each of the 3 usability tests, a low-fidelity prototype provides the ability for designers to test the flow of screens and the functionality for the app before intricate design changes are implemented. A total of 5 tasks were created based on the most important user needs from user testing. Those are
@@ -141,7 +141,7 @@ The tasks are visualized in the diagram below
  
 *User Flow diagram*
 
-<img src="./userflow.png" height="300px">  
+<img src="./userflow.png" width="900px">  
 
 ## User Testing
 Iterations were represented by “versions,” and can be seen by the V1 (Version 1) and V2 (Version 2) labels. 
@@ -161,7 +161,7 @@ I eventually decided it would be easier to design directly in Figma using a Low-
 
 *V1 low-fidelity prototype*
 
-<img src="./v1lowfid.png" height="300px">  
+<img src="./v1lowfid.png" width="900px">  
  
 ### Version 2 (Final)
 In addition to editing the pre-existing Login page, Home page, About page, Edit function, and Vocabulary page, I added a Search page, Etiquette page, and included interactive bookmarks to sections that can be saved. This is the version in which I created a working prototype and tested it with 3 users. Although a surprising amount of the feedback was positive, as each task was fulfilled with minimal issues, there were quite a few recommendations on portions that hadn’t yet been built out.
@@ -175,11 +175,11 @@ In addition to editing the pre-existing Login page, Home page, About page, Edit 
 
 *V2 low-fidelity prototype*
 
-<img src="./v2lowfid.png" height="300px">  
+<img src="./v2lowfid.png" width="900px">  
 
 *Final low-fidelity prototype*
 
-<img src="./finalproto.png" height="300px">  
+<img src="./finalproto.png" width="900px">  
 
 ## Resource List
 [Research findings](https://www.figma.com/file/Qmr3ZtHMiGVFMf3gKQMg5t/Language-Learning-App?node-id=0%3A1&t=AkeE2LlfRBlswTIs-1)

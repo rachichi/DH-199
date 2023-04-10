@@ -123,7 +123,7 @@ Based on the interview research I chose 2 personas. One is Karla, who is a recen
 
 *Karla Aziz’s user persona* | *Ian Chen’s persona*
 -------------------------------------------|---------------------------------------------
-<img src="./karlapersona.png" width="400px">  | <img src="./ianpersona.png" width="400px">
+<img src="./karlapersona.png" width="500px">  | <img src="./ianpersona.png" width="500px">
 
 ## User Flows
 As reiterated in the beginning of each of the 3 usability tests, a low-fidelity prototype provides the ability for designers to test the flow of screens and the functionality for the app before intricate design changes are implemented. A total of 5 tasks were created based on the most important user needs from user testing. Those are
